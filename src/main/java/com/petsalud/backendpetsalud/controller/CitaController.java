@@ -9,7 +9,6 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 
-/////asjdhasjkdhjashdjkashdasjdhask
 @RestController
 @RequestMapping("/api/citas")
 public class CitaController {
